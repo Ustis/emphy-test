@@ -6,6 +6,7 @@
 \
 \
 \
+Виджет находится в папке widget
 ## Пути:  
 http://example.com/api/leadLinkedProducts  
 Параметры тела запроса:  
